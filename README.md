@@ -1,2 +1,2 @@
-# my_repo
-This repo has been created for demonstration purpose only
+# Machine_LearningProjects
+This repo consists if all the ML projects
